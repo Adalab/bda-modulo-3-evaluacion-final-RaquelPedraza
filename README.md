@@ -5,7 +5,8 @@ bda-modulo-3-evaluacion-final-RaquelPedraza created by GitHub Classroom
 Este proyecto está enfocado en demostrar los conocimientos adquiridos en el Módulo 3, 'Transformación de Datos'.
 Se abordan problemas de limpieza de datos, visualización y análisis estadístico para proporcionar información valiosa de los datos a analizar.
 
-#### Fases del Proyecto
+
+### Fases del Proyecto
 
 **Fase 1: Exploración y Limpieza de Datos**
 
@@ -51,6 +52,7 @@ Agrupar por nivel educativo y calcular promedio, desviación estándar, percenti
 <u>Objetivo</u>: Determinar si existen diferencias significativas en vuelos reservados entre niveles educativos.
 <u>Tareas</u>:
 Realizar prueba de hipótesis.
+
 
 **Datos Utilizados**
 Customer Loyalty History.csv: Historial de fidelidad de clientes.
