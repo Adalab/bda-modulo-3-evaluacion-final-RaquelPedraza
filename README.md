@@ -11,14 +11,14 @@ Se abordan problemas de limpieza de datos, visualización y análisis estadísti
 **Fase 1: Exploración y Limpieza de Datos**
 
 *1. Exploración Inicial*
-<u>Objetivo:</u> Identificar posibles problemas en los datos, como valores nulos, atípicos o datos faltantes.
-<u>Tareas</u>:
+Objetivo: Identificar posibles problemas en los datos, como valores nulos, atípicos o datos faltantes.
+Tareas:
 - Utilizar funciones de Pandas para obtener información sobre la estructura de los datos.
 - Unir los dos conjuntos de datos proporcionados.
 
 *2. Limpieza de Datos*
-<u>Objetivo</u>: Asegurar que los datos estén completos, consistentes y preparados para el análisis.
-<u>Tareas</u>:
+Objetivo: Asegurar que los datos estén completos, consistentes y preparados para el análisis.
+Tareas:
 - Eliminar o tratar valores nulos.
 - Verificar la consistencia y corregir los datos.
 - Ajustar o convertir tipos de datos según sea necesario.
@@ -26,8 +26,8 @@ Se abordan problemas de limpieza de datos, visualización y análisis estadísti
 
 **Fase 2: Visualización**
 
-<u>Objetivo</u>: Usar visualizaciones para responder preguntas específicas sobre los datos.
-<u>Tareas</u>:
+Objetivo: Usar visualizaciones para responder preguntas específicas sobre los datos.
+Tareas:
 1. Distribución de vuelos reservados por mes.
 2. Relación entre la distancia de los vuelos y los puntos acumulados.
 3. Distribución de clientes por provincia o estado.
@@ -39,18 +39,18 @@ Se abordan problemas de limpieza de datos, visualización y análisis estadísti
 **Fase 3: Evaluación de Diferencias en Reservas de Vuelos por Nivel Educativo**
 
 *1. Preparación de Datos*
-<u>Objetivo</u>: Filtrar datos relevantes para el análisis.
-<u>Tareas</u>:
+Objetivo: Filtrar datos relevantes para el análisis.
+Tareas:
 Incluir columnas relevantes: 'Flights Booked' y 'Education'.
 
 *2. Análisis Descriptivo*
-<u>Objetivo</u>: Calcular estadísticas descriptivas para vuelos reservados según nivel educativo.
-<u>Tareas</u>:
+Objetivo: Calcular estadísticas descriptivas para vuelos reservados según nivel educativo.
+Tareas:
 Agrupar por nivel educativo y calcular promedio, desviación estándar, percentiles.
 
 *3. Prueba Estadística*
-<u>Objetivo</u>: Determinar si existen diferencias significativas en vuelos reservados entre niveles educativos.
-<u>Tareas</u>:
+Objetivo: Determinar si existen diferencias significativas en vuelos reservados entre niveles educativos.
+Tareas:
 Realizar prueba de hipótesis.
 
 
